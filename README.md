@@ -5,7 +5,7 @@
 We use special library **[Jikji](https://github.com/Prev/jikji/tree/0.5)** to automate rendering pages. Datas are stored in [Cloudant](https://www.ibm.com/cloud/cloudant), which is document database service powered by IBM.
 
 
-
+#apna college
 ## Build manually
 
 Originally, this website is built automatically for every hour by Jenkins. But now it stopped by cost problem.
